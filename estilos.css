@@ -68,7 +68,7 @@ h5 {
     }
   }
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     font-size: 2.5rem;
   }
 }
@@ -90,7 +90,7 @@ body {
     width: 674px;
   }
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     width: 299px;
   }
 }
@@ -116,7 +116,7 @@ body {
   justify-content: space-between;
   gap: var(--gap-m);
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     display: none;
   }
 }
@@ -227,7 +227,7 @@ body {
     padding: 0 5.5rem;
   }
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     padding: 0;
   }
 }
@@ -256,7 +256,7 @@ body {
     padding: var(--padding-xl) 0;
   }
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     flex-direction: column-reverse;
     gap: var(--gap-l);
   }
@@ -269,7 +269,7 @@ body {
   gap: var(--gap-l);
   width: 45%;
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     width: 100%;
     align-items: stretch;
   }
@@ -328,7 +328,7 @@ body {
     justify-content: space-around;
   }
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     text-align: center;
   }
 }
@@ -336,7 +336,7 @@ body {
 .sobre-nos__beneficios--card {
   width: 33.33%;
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     width: 100%;
   }
 
@@ -420,7 +420,7 @@ body {
     max-width: 25%;
   }
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     max-width: 100%;
     text-align: center;
   }
@@ -475,7 +475,7 @@ body {
       gap: var(--gap-xl);
     }
 
-    @media(max-width:425px){
+    @media(max-width:550px){
       max-width: 425px;
       text-align: center;
     }
@@ -493,7 +493,7 @@ body {
   justify-content: space-between;
   align-items: start;
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     flex-direction: column;
     gap: var(--gap-l);
   }
@@ -506,7 +506,7 @@ body {
   width: 40%;
   gap: var(--gap-m);
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     width: 100%;
   }
 
@@ -743,7 +743,7 @@ body {
   gap: var(--gap-xl);
   padding: var(--padding-2xl) 0;
 
-  @media(max-width:425px){
+  @media(max-width:550px){
     flex-direction: column;
     gap: var(--gap-l);
   }
